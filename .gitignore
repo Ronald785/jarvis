@@ -1,0 +1,88 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build
+dist/
+build/
+out/
+
+# Dependency directories
+node_modules/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js
+.next/
+out/
+
+# Tailwind
+*.css
+*.min.css
+
+# Parcel-bundler
+.cache/
+.parcel-cache/
+
+# Svelte
+__sapper__/
+*.svelte
+
+# Typescript
+*.tsbuildinfo
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# React Native
+.expo/
+*.expo
+
+# ESLint
+.eslintcache
+
+# Styled Components
+.stylelintrc
+
+# Storybook
+out/
+storybook-static/
+
+# Yarn
+.pnp.*
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
